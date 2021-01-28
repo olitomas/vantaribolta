@@ -1,2 +1,3 @@
-# vantaribolta
-vantaribolta.is
+# vantaribolta - Spjall og "Issues"
+
+Vantaribolta.is
